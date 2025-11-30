@@ -1,0 +1,24 @@
+{
+    "basics": {
+        "video_path": "../../videos/cross-time.mp4",
+        "output_dir": "../../encode",
+        "output_name": "cross-time_hard+",
+        "start_frame": 120,
+        "end_frame": 9100,
+        "jpeg_quality": 15,
+        "default_step": 12,
+        "adjust_step_enabled": true,
+        "thumbnail_path": "../../thumbnails/cross-time_thumbnail.png",
+        "difficulty": "S.HARD+"
+    },
+    "step": {
+        "120": 20,
+        "1236": 12,
+        "2811": 10,
+        "2856": 12,
+        "5008": 20,
+        "5374": 12,
+        "5824": 24,
+        "6723": 12
+    }
+}

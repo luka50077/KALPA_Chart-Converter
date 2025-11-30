@@ -1,0 +1,17 @@
+.vscode/
+.DS_Store
+converter/build/
+encode/
+videos/
+
+utils/frame_viewer/build/
+utils/frame_viewer/captures/
+utils/captures/
+utils/hidden/
+utils/uploader/uploader
+utils/downloader/downloader
+
+thumbnails/
+utils/thumbnail/myenv/
+utils/thumbnail/thumbnail
+utils/thumbnail/check_pixels

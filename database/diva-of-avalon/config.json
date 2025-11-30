@@ -1,0 +1,24 @@
+{
+    "basics": {
+        "video_path": "../../videos/diva-of-avalon.mp4",
+        "output_dir": "../../encode",
+        "output_name": "Diva-of-Avalon_chaos",
+        "start_frame": 252,
+        "end_frame": 7100,
+        "jpeg_quality": 15,
+        "default_step": 12,
+        "adjust_step_enabled": false,
+        "thumbnail_path": "../../thumbnails/Diva-of-Avalon_thumbnail.png",
+        "difficulty": "CHAOS"
+    },
+    "step": {
+        "120": 20,
+        "1236": 12,
+        "2811": 10,
+        "2856": 12,
+        "5015": 20,
+        "5374": 12,
+        "5824": 24,
+        "6723": 12
+    }
+}

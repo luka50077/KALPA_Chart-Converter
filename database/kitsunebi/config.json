@@ -1,0 +1,21 @@
+{
+    "basics": {
+        "video_path": "../../videos/kitsunebi.mp4",
+        "output_dir": "../../encode",
+        "output_name": "kitsunebi_chaos",
+        "start_frame": 169,
+        "end_frame": 5880,
+        "jpeg_quality": 20,
+        "default_step": 12,
+        "adjust_step_enabled": false,
+        "thumbnail_path": "../../thumbnails/kitsunebi.png",
+        "difficulty": "CHAOS"
+    },
+    "step": {
+        "1": 6,
+        "1000": 5,
+        "2000": 4,
+        "3000": 3,
+        "4000": 2
+    }
+}

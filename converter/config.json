@@ -1,0 +1,20 @@
+{
+    "basics": {
+        "video_path": "../../videos/identity-cosmos.mp4",
+        "output_dir": "../../encode",
+        "output_name": "identity-cosmos",
+        "start_frame": 317,
+        "end_frame":8502,
+        "jpeg_quality": 10,
+        "default_step": 12,
+        "adjust_step_enabled": true,
+        "thumbnail_path": "../../thumbnails/identity.png",
+        "difficulty": "COSMOS"
+    },
+    "step": {
+        "1066": 8,
+        "1294": 12,
+        "5938": 8,
+        "6033": 12
+    }
+}

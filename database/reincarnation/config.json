@@ -1,0 +1,42 @@
+{
+    "basics": {
+        "video_path": "../../videos/reincarnation-hard+.mp4",
+        "output_dir": "../../encode",
+        "output_name": "reincarnation-of-kalpa",
+        "start_frame": 150,
+        "end_frame": 10500,
+        "jpeg_quality": 10,
+        "default_step": 12,
+        "adjust_step_enabled": true,
+        "thumbnail_path": "../../thumbnails/reincarnation-of-kalpa.png",
+        "difficulty": "S.HARD+"
+    },
+    "step": {
+        "200": 19,
+        "1640": 15,
+        "1670": 14,
+        "1690": 12,
+        "3035": 13,
+        "3076": 17,
+        "3093": 25,
+        "3541": 21,
+        "3573": 17,
+        "3592": 16,
+        "4880": 12,
+        "5530": 20,
+        "5551": 14,
+        "5560": 12,
+        "5583": 10,
+        "5593": 9,
+        "5603": 8,
+        "5616": 24,
+        "5640": 12,
+        "9292": 15,
+        "9344": 16,
+        "9374": 19,
+        "9405": 23,
+        "9335": 26,
+        "9450": 35,
+        "9470": 37
+    }
+}

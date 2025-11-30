@@ -1,0 +1,22 @@
+{
+    "basics": {
+        "video_path": "../../videos/bride-indream-hard+.mp4",
+        "output_dir": "../../encode",
+        "output_name": "bride-in-dream-hard+",
+        "start_frame": 470,
+        "end_frame":9380,
+        "jpeg_quality": 10,
+        "default_step": 12,
+        "adjust_step_enabled": true,
+        "thumbnail_path": "../../thumbnails/bride-in-dream.png",
+        "difficulty": "S.HARD+"
+    },
+    "step": {
+        "6096": 24,
+        "6466": 19,
+        "6496": 15,
+        "6529": 14,
+        "6561": 13,
+        "6589": 12
+    }
+}

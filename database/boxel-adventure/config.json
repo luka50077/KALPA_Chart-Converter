@@ -1,0 +1,21 @@
+{
+    "basics": {
+        "video_path": "../../videos/boxel-adventure_cosmos.mp4",
+        "output_dir": "../../encode",
+        "output_name": "boxel-adventure-cosmos",
+        "start_frame": 89,
+        "end_frame":7350,
+        "jpeg_quality": 10,
+        "default_step": 12,
+        "adjust_step_enabled": true,
+        "thumbnail_path": "../../thumbnails/boxel-adventure.png",
+        "difficulty": "COSMOS"
+    },
+    "step": {
+        "7079": 14,
+        "7091": 16,
+        "7105": 18,
+        "7120": 20,
+        "7150": 25
+    }
+}
